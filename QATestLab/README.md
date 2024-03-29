@@ -5,4 +5,4 @@ I learned the basics of testing, mastered the practical skills of web, mobile, g
 ***
 In this folder, I added some of the assignments that I completed during the course
 ***
-![certificate] (https://drive.google.com/file/d/1NgFzMzRqd1g4dgnBxXuP4QYq5bPdIrl6/view?usp=drive_link)
+![certificate] (/Testrail/certificate.png)
